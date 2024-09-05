@@ -1,9 +1,9 @@
 ---
-title: "Kit Presse FNEIR (Fédération Nationale des Étudiants en Informatique et Réseaux)"
+title: "Kit Presse FNEIR"
 layout: page
 permalink: /
 ---
-![Logo Fédération Nationale des Étudiants en Informatique (FNEIR) Kit Presse](./Logo%20FNEIR%20Rect.min.svg)
+![Logo Fédération Nationale des Étudiants en Informatique (FNEIR) Kit Presse](./Logo%20FNEIR%20Rect.png)
 
 > Logo : [PNG](./Logo%20FNEIR%20Rect.png) ; [SVG](./Logo%20FNEIR%20Rect.min.svg)
 
@@ -13,12 +13,14 @@ L'objectif est de consistuer un réseaux d'associations ou clubs étudiants dans
 
 ## Contact
 
-* Via Discord : https://discord.com/invite/8THD78p4Qu
-* Adhésion : https://shorturl.at/uqKM7 (la cotisation est proposée après validation des informations soumises dans le formulaire d'adhésion)
+* Via Discord : [discord.gg/8THD78p4Qu](https://discord.com/invite/8THD78p4Qu)
+* Adhésion : [Google Forms](https://shorturl.at/uqKM7) (la cotisation est proposée après validation des informations soumises dans le formulaire d'adhésion)
 
 ## Légal
 
-**Documents** : Statuts [PDF](./Statuts_FNEIR.pdf) ; Règlement intérieur [PDF](./ReglementInterieur_FNEIR.pdf)
+**Documents** :
+* Statuts : [PDF](./Statuts_FNEIR.pdf)
+* Règlement intérieur : [PDF](./ReglementInterieur_FNEIR.pdf)
 
 **Titre** : FÉDÉRATION NATIONALE DES ÉTUDIANTS EN INFORMATIQUE ET RÉSEAUX 
 

@@ -1,5 +1,7 @@
 ---
 title: "Kit Presse FNEIR (Fédération Nationale des Étudiants en Informatique et Réseaux)"
+layout: page
+permalink: /
 ---
 ![Logo Fédération Nationale des Étudiants en Informatique (FNEIR) Kit Presse](./Logo%20FNEIR%20Rect.min.svg)
 

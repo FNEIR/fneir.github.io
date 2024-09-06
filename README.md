@@ -5,7 +5,7 @@ permalink: /
 ---
 ![Logo Fédération Nationale des Étudiants en Informatique (FNEIR) Kit Presse](./logos/Logo-FNEIR-Rect.png)
 
-> Logo : [PNG](./logos/Logo-FNEIR-Rect.png) ; [SVG](./logos/Logo-FNEIR-Rect.min.svg) ; [Toutes les variantes](./logos/)
+> Logo : [PNG](./logos/Logo-FNEIR-Rect.png) ; [SVG](./logos/Logo-FNEIR-Rect.min.svg) ; [Toutes les variantes](https://github.com/FNEIR/fneir.github.io/tree/main/logos)
 
 La **Fédération Nationale des Étudiants en Informatique et Réseaux** (FNEIR) est une association à but non lucrative française visant à rassembler, à l’échelle nationale, tous les étudiants engagés et intéressés par le domaine du numérique.
 

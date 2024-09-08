@@ -5,17 +5,22 @@ permalink: /
 locale: fr-FR
 image: "./logos/Banner.png"
 ---
+
+![Logo Fédération Nationale des Étudiants en Informatique (FNEIR) Kit Presse](./Logo%20FNEIR%20Rect.min.svg)
+
 ## La FNEIR
 
 La **Fédération Nationale des Étudiants en Informatique et Réseaux** (FNEIR) est une association à but non lucrative française visant à rassembler, à l’échelle nationale, tous les étudiants engagés et intéressés par le domaine du numérique.
 
 L'objectif est de consistuer un réseaux d'associations ou clubs étudiants dans le but de favoriser, entre autres, le partage de connaissances et l'organisation d'évènements liés à l'informatique ou aux réseaux.
 
-## Contact
+## Adhérer
 
-* Via Discord : [discord.gg/8THD78p4Qu](https://discord.com/invite/8THD78p4Qu)
-* Adhésion : [Google Forms](https://shorturl.at/uqKM7) (la cotisation est proposée après validation des informations soumises dans le formulaire d'adhésion)
-* Notre page LinkedIn : [linkedin.com/company/FNEIR](https://www.linkedin.com/company/fneir/)
+Utilisez le formulaire suivant : [Google Forms](https://shorturl.at/uqKM7)
+
+Avant de compléter le formulaire, nous vous invitons à consulter nos statuts et le règlement intérieur ci-dessous.
+
+La cotisation sera proposée après validation des informations soumises dans le formulaire d'adhésion.
 
 ## Légal
 

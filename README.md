@@ -6,7 +6,7 @@ locale: fr-FR
 image: "./logos/Banner.png"
 ---
 
-![Logo Fédération Nationale des Étudiants en Informatique (FNEIR) Kit Presse](./Logo%20FNEIR%20Rect.min.svg)
+![Logo Fédération Nationale des Étudiants en Informatique (FNEIR) Kit Presse](./logos/Logo-FNEIR-Rect.min.svg)
 
 ## La FNEIR
 

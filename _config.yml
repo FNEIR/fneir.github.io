@@ -2,6 +2,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Kit Presse FNEIR
-description: [
-  La Fédération Nationale des Étudiants en Informatique et Réseaux (FNEIR) vise à favoriser le partage de connaissances et l'organisation d'évènements en constituant un réseau d'associations ou clubs étudiants liés à l'informatique ou aux réseaux
-]
+description: "La Fédération Nationale des Étudiants en Informatique et Réseaux (FNEIR) vise à rassembler tous les étudiants engagés et intéressés par le domaine du numérique. L'objectif est de consistuer un réseaux d'associations pour favoriser le partage de connaissances et l'organisation d'évènements liés à l'informatique ou aux réseaux."
+lang: fr
+logo: "./logos/Logo-FNEIR-Rect.min.svg"

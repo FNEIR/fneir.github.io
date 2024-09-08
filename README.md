@@ -1,6 +1,6 @@
 ---
 title: "Kit Presse FNEIR"
-layout: page
+layout: default
 permalink: /
 ---
 ![Logo Fédération Nationale des Étudiants en Informatique (FNEIR) Kit Presse](./logos/Logo-FNEIR-Rect.png)
